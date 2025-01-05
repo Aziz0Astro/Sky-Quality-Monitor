@@ -1,0 +1,36 @@
+# Light Pollution Monitoring Data Format 1.0
+# URL: http://www.darksky.org/measurements
+# Number of header lines: 36
+# This data is released under the following license: ODbL 1.0 http://opendatacommons.org/licenses/odbl/summary/
+# Device type: SQM-LE
+# Instrument ID: 
+# Data supplier: 
+# Location name: WCO
+# Position (lat, lon, elev(m)): 41.965827, -71.183225, 30
+# Local timezone: EST5EDT
+# Time Synchronization: 0
+# Moving / Stationary position: STATIONARY
+# Moving / Fixed look direction: FIXED
+# Number of channels: 1
+# Filters per channel: 
+# Measurement direction per channel: 
+# Field of view (degrees): 
+# Number of fields per line: 6
+# SQM serial number: 5602
+# SQM hardware identity: 0080A3EABD46
+# SQM firmware version: 4-3-79
+# SQM cover offset value: 
+# SQM readout test ix: i,00000004,00000003,00000079,00005602
+# SQM readout test rx: u, 00.00m,0000538235Hz,0000000000c,0000000.000s, 060.5C
+# SQM readout test cx: c,00000019.98m,0000116.522s, 020.6C,00000008.71m, 034.4C
+# Comment: 
+# Comment: 
+# Comment: 
+# Comment: 
+# Comment: 
+# UDM version: 1.0.0.312
+# UDM setting: Logged continuously every 1 minute on the minute,Threshold = 10 mpsas.
+# blank line
+# UTC Date & Time, Local Date & Time, Temperature, Counts, Frequency, MSAS
+# YYYY-MM-DDTHH:mm:ss.fff;YYYY-MM-DDTHH:mm:ss.fff;Celsius;number;Hz;mag/arcsec^2
+# END OF HEADER
